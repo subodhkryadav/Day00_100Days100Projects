@@ -83,7 +83,6 @@ A simple game where:
 - Total attempts are counted
 
 > 🏁 Run it:
-```bash
 python Mini_Project_Number_Guessing_Game.py
 
 ---
